@@ -1,2 +1,3 @@
 # hello-world-
-Just new repository
+سلام دوستان
+این یک ویرایش اولیه از فایل مرا بخوان هست
